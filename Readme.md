@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/cenaei/frontend-mentorship-challenge/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/javascript-concept-vector-illustration.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Frontend Mentorship Challenge</h3>
@@ -41,8 +41,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Screen Shot][product-screenshot]](https://github.com/cenaei/frontend-mentorship-challenge/blob/main/Images/javascript-concept-vector-illustration.jpg)
 
 I'm working on my web programming skills, and this repository (=Repositories) is the beginning of my road. :)
 
